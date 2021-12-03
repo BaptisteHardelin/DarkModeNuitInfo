@@ -1,0 +1,18 @@
+.hourglass{
+  width: 7%;
+  height: 10%;
+  padding-left: 50%;
+  margin-top: -5%;
+  z-index: -1;
+  position: absolute;
+
+}
+.hourglass2{
+  width: 7%;
+  height: 10%;
+  padding-right: 50%;
+  margin-top: -5%;
+  z-index: -1;
+  position: absolute;
+  float: right;
+}
